@@ -14,6 +14,10 @@ querySelectorAll : This is NodeList all matches access.
 
 
 ### 2. How do you **create and insert a new element into the DOM**?
+Ans:
+const createElement = document.createElement("div");
+createElement.innerText = "create a dive"
+document.body.appendChild(createElement);
 
 ### 3. What is **Event Bubbling** and how does it work?
 
