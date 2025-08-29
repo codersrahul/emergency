@@ -2,6 +2,17 @@
 
 ### 1. What is the difference between **getElementById, getElementsByClassName, and querySelector / querySelectorAll**?
 
+Ans : 
+
+getElementById : Id is single element.
+
+getElementsByClassName : It can access many thins because class is multiple element.
+
+querySelector : First match css selector.
+
+querySelectorAll : This is NodeList all matches access.
+
+
 ### 2. How do you **create and insert a new element into the DOM**?
 
 ### 3. What is **Event Bubbling** and how does it work?
