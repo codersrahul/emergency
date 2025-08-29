@@ -21,6 +21,8 @@ document.body.appendChild(createElement);
 
 ### 3. What is **Event Bubbling** and how does it work?
 
+Ans : Event Bubbling : Event gose from target element parent - document - bottom to top.
+
 ### 4. What is **Event Delegation** in JavaScript? Why is it useful?
 
 ### 5. What is the difference between **preventDefault() and stopPropagation()** methods?
